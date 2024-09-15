@@ -1,0 +1,393 @@
+span{
+    color: rgb(105, 26, 38);
+}
+span1{
+    color: rgb(175, 71, 89);
+}
+
+.head{
+    background-color: aquamarine;
+    height:30px;
+    width:400px;
+    padding:20px;
+    margin-left: 700px;
+    border-radius:10px;
+}
+p{
+    margin: 10px;
+}
+h3{
+    margin-left: 10px;
+}
+
+#pets{
+display:inline-flex;
+    padding:75px 50px 75px 50px;
+    width:100%;
+    overflow:auto;
+}
+.card1{
+    height: 550px;
+    width: 300px;
+    display:inline-block;
+    background-color:beige;
+    border-radius: 10px;
+    font-weight:400px; ;
+    margin-right:40px ;
+    box-shadow: 5px 3px 5px gray ;
+}
+.card1:hover{
+    height: 650px;
+    width: 450px;
+    border-radius: 20px;
+    margin-right:20px ;
+    box-shadow: 7px 5px 10px rgb(67, 51, 51);
+  font-size:large;
+}
+ .img1{
+height: 200px;
+width: 290px;
+margin: 5px;
+border-radius: 10px;
+} 
+
+.card2{
+    height: 550px;
+    width: 100%;
+    display:inline-block;
+    background-color:beige;
+    border-radius: 10px;
+    margin-right:40px ;
+    box-shadow: 5px 3px 5px gray ;
+}
+.card2:hover{
+    height: 600px;
+    width: 450px;
+    border-radius: 20px;
+    margin-right:20px ;
+    box-shadow: 7px 5px 10px rgb(67, 51, 51);
+    font-size:large;
+}
+.img2{
+    height: 200px;
+    width: 290px;
+    margin: 5px;
+border-radius: 10px;
+    } 
+    .card3{
+        height: 550px;
+        width: 100%;
+        background-color:beige;
+        border-radius: 10px;
+        display:inline-block;
+        margin-right:40px;
+        box-shadow: 5px 3px 5px gray ;
+    }
+    .card3:hover{
+        height: 600px;
+        width: 450px;
+        border-radius: 20px;
+        margin-right:20px ;
+        box-shadow:7px 5px 10px rgb(67, 51, 51);
+        font-size:large;
+    }
+    .img3{height: 200px;
+        width: 290px;
+        margin: 5px;
+    border-radius: 10px;
+    }
+    .card4{
+        height: 550px;
+        width: 100%;
+        background-color:beige;
+        border-radius: 10px;
+        display:inline-block;
+        margin-right:40px;
+        box-shadow: 5px 3px 5px gray ;
+    }
+    .card4:hover{
+        height: 600px;
+        width: 450px;
+        border-radius: 20px;
+        margin-right:20px ;
+        box-shadow: 7px 5px 10px rgb(67, 51, 51);
+        font-size:large;
+    }
+    .img3{height: 200px;
+        width: 290px;
+        margin: 5px;
+    border-radius: 10px;
+    }
+    .card5{
+        height: 550px;
+        width: 100%;
+        background-color:beige;
+        border-radius: 10px;
+        display:inline-block;
+        margin-right:40px ;
+        box-shadow: 5px 3px 5px gray ;
+    }.card5:hover{
+        height: 600px;
+        width: 450px;
+        border-radius: 20px;
+        margin-right:20px ;
+       box-shadow:  7px 5px 10px rgb(67, 51, 51);
+        font-size:large;
+    }
+    .img3{height: 200px;
+        width: 290px;
+        margin: 5px;
+    border-radius: 10px;
+    }
+    .card6{
+        height: 550px;
+        width:100%;
+        margin-right:40px;
+        background-color:beige;
+        border-radius: 10px;
+        display:inline-block;
+        box-shadow: 5px 3px 5px gray ;
+    }
+    .card6:hover{
+        height: 600px;
+        width: 450px;
+        border-radius: 20px;
+        margin-right:20px ;
+        box-shadow: 7px 5px 10px rgb(67, 51, 51);
+        font-size:large;
+    }
+    .img3{height: 200px;
+        width: 290px;
+        margin: 5px;
+    border-radius: 10px;
+    }
+    .card7{
+        height: 550px;
+        width:100%;
+        margin-right:40px;
+        background-color:beige;
+        border-radius: 10px;
+        display:inline-block;
+        box-shadow: 5px 3px 5px gray ;
+    }.card7:hover{
+        height: 600px;
+        width: 450px;
+        border-radius: 20px;
+        margin-right:20px ;
+       box-shadow:  7px 5px 10px rgb(67, 51, 51);
+        font-size:large;}
+
+    .img3{height: 200px;
+        width: 290px;
+        margin: 5px;
+    border-radius: 10px;
+    }
+    .card8{
+        height: 550px;
+        width:100%;
+        margin-right:40px;
+        background-color:beige;
+        border-radius: 10px;
+        display:inline-block;
+        box-shadow: 5px 3px 5px gray ;
+    }
+    .card8:hover{
+        height: 600px;
+        width: 450px;
+        border-radius: 20px;
+        margin-right:20px ;
+        box-shadow: 7px 5px 10px rgb(67, 51, 51);
+        font-size:large;
+    }
+    .img3{height: 200px;
+        width: 290px;
+        margin: 5px;
+    border-radius: 10px;
+    }
+    .card9{
+        height: 550px;
+        width:100%;
+        margin-right:40px;
+        background-color:beige;
+        border-radius: 10px;
+        display:inline-block;
+        box-shadow: 5px 3px 5px gray ;
+    }
+    .card9:hover{
+        height: 600px;
+        width: 450px;
+        border-radius: 20px;
+        margin-right:20px ;
+        box-shadow: 7px 5px 10px rgb(67, 51, 51);
+        font-size:large;
+    }
+    .img3{height: 200px;
+        width: 290px;
+        margin: 5px;
+    border-radius: 10px;
+    }.card10{
+        height: 550px;
+        width:100%;
+        margin-right:40px;
+        background-color:beige;
+        border-radius: 10px;
+        display:inline-block;
+        box-shadow: 5px 3px 5px gray ;
+    }
+    .card10:hover{
+        height: 600px;
+        width: 450px;
+        border-radius: 20px;
+        margin-right:20px ;
+        box-shadow: 7px 5px 10px rgb(67, 51, 51);
+        font-size:large;
+    }
+    .img3{height: 200px;
+        width: 290px;
+        margin: 5px;
+    border-radius: 10px;
+    }
+    .card11{
+        height: 550px;
+        width:100%;
+        margin-right:40px;
+        background-color:beige;
+        border-radius: 10px;
+        display:inline-block;
+        box-shadow: 5px 3px 5px gray ;
+    }
+    .card11:hover{
+        height: 600px;
+        width: 450px;
+        border-radius: 20px;
+        margin-right:20px ;
+       font-size:larger;
+        box-shadow:   7px 5px 10px rgb(67, 51, 51);
+    }
+
+    .img3{height: 200px;
+        width: 290px;
+        margin: 5px;
+    border-radius: 10px;
+    }
+    .card12{
+        height: 550px;
+        width:100%;
+        margin-right:40px;
+        background-color:beige;
+        border-radius: 10px;
+        display:inline-block;
+        box-shadow: 5px 3px 5px gray ;
+    }
+    .card12:hover{
+        height: 600px;
+        width: 450px;
+        border-radius: 20px;
+        margin-right:20px ;
+        box-shadow: 7px 5px 10px rgb(67, 51, 51);
+        font-size:large;}
+
+  .shorts {
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+      .dog1{
+        margin-right:40px;
+        height:375px;
+        width:200px;
+        box-shadow: 2px 2px 5px gray;
+        border-radius: 10px;
+       background-color: black;
+        border-radius: 10px;
+       display: inline-block;
+       color: azure;
+       }
+       
+       .dog2{
+        margin-right:40px;
+        color: azure;
+        height:375px;
+        width:200px;
+        box-shadow: 2px 2px 5px gray;
+        border-radius: 10px;
+       background-color: black;
+        border-radius: 10px;
+       display: inline-block;
+       color: azure;
+       }
+       .dog3{
+        margin-right:40px;
+        height: 375px;
+        width:200px;
+        box-shadow: 2px 2px 5px gray;
+        border-radius: 10px;
+       background-color: black;
+        border-radius: 10px;
+        color: azure;
+       display: inline-block;
+       }
+       .dog4{
+        margin-right:40px;
+        height:375px;
+        width:200px;
+        box-shadow: 2px 2px 5px gray;
+        border-radius: 10px;
+        color: azure;
+       background-color: black;
+        border-radius: 10px;
+       display: inline-block;
+       }
+       .dog5{
+        margin-right:40px;
+        height:375px;
+        width:200px;
+        box-shadow: 2px 2px 5px gray;
+        border-radius: 10px;
+       background-color: black;
+        border-radius: 10px;
+        color: azure;
+       display: inline-block;
+       }
+       .dog6{
+        margin-right:40px;
+        height:375px;
+        width:200px;
+        box-shadow: 2px 2px 5px gray;
+        border-radius: 10px;
+       background-color: black;
+        border-radius: 10px;
+        color: azure;
+       display: inline-block;
+       }.dog7{
+        margin-right:40px;
+        height:375px;
+        width:200px;
+        box-shadow: 2px 2px 5px gray;
+        border-radius: 10px;
+       background-color: black;
+        border-radius: 10px;
+        color: azure;
+       display: inline-block;
+       }
+       .dog8{
+        margin-right:40px;
+        height:375px;
+        width:200px;
+        box-shadow: 2px 2px 5px gray;
+        border-radius: 10px;
+        color: azure;
+       background-color: black;
+        border-radius: 10px;
+       display: inline-block;
+       }
+       .dog9{
+        margin-right:40px;
+        height:375px;
+        width:200px;
+        box-shadow: 2px 2px 5px gray;
+        border-radius: 10px;
+        color: azure;
+     background-color: black;
+        border-radius: 10px;
+       display: inline-block;
+       }
